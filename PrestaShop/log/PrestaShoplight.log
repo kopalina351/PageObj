@@ -1,0 +1,57 @@
+2018-13-09 22:33:48   INFO [pages.HomePage] : Home page was opened
+2018-13-09 22:33:50   INFO [pages.HomePage] : Tab 'Women' was clicked
+2018-13-09 22:33:50   INFO [pages.WomenPage] : Page 'Women' was displayed
+2018-13-09 22:33:50   INFO [pages.WomenPage] : 'price:asc' was selected in DD
+2018-13-09 22:33:53   INFO [pages.WomenPage] : List of elements was getted
+2018-13-09 22:33:53   INFO [pages.WomenPage] : List of elements was getted
+2018-13-09 22:33:53   INFO [pages.WomenPage] : List of elements was getted
+2018-13-09 22:33:53   INFO [pages.WomenPage] : List of elements was getted
+2018-13-09 22:33:53   INFO [pages.WomenPage] : List of elements was getted
+2018-13-09 22:33:53   INFO [pages.WomenPage] : List of elements was getted
+2018-13-09 22:33:54   INFO [pages.HomePage] : Browser was closed
+2018-13-09 22:34:02   INFO [pages.HomePage] : Home page was opened
+2018-13-09 22:34:03   INFO [pages.HomePage] : Tab 'Women' was clicked
+2018-13-09 22:34:03   INFO [pages.WomenPage] : Page 'Women' was displayed
+2018-13-09 22:34:03   INFO [pages.WomenPage] : 'price:asc' was selected in DD
+2018-13-09 22:34:07   INFO [pages.WomenPage] : Filter 'Pink' was clicked
+2018-13-09 22:34:10   INFO [pages.WomenPage] : Number of filtered elements was getted
+2018-13-09 22:34:10   INFO [pages.WomenPage] : Number of filtered elements equal 1
+2018-13-09 22:34:11   INFO [pages.HomePage] : Browser was closed
+2018-13-09 22:34:35   INFO [pages.HomePage] : Home page was opened
+2018-13-09 22:34:37   INFO [pages.HomePage] : Tab 'Women' was clicked
+2018-13-09 22:34:37   INFO [pages.WomenPage] : Page 'Women' was displayed
+2018-13-09 22:34:37   INFO [pages.WomenPage] : 'price:asc' was selected in DD
+2018-13-09 22:34:40   INFO [pages.WomenPage] : Filter 'Pink' was clicked
+2018-13-09 22:34:43   INFO [pages.WomenPage] : Number of filtered elements was getted
+2018-13-09 22:34:43   INFO [pages.WomenPage] : Number of filtered elements equal 1
+2018-13-09 22:34:44   INFO [pages.HomePage] : Browser was closed
+2018-13-09 22:35:16   INFO [pages.HomePage] : Home page was opened
+2018-13-09 22:35:17   INFO [pages.HomePage] : Tab 'Women' was clicked
+2018-13-09 22:35:17   INFO [pages.WomenPage] : Page 'Women' was displayed
+2018-13-09 22:35:18   INFO [pages.WomenPage] : 'price:asc' was selected in DD
+2018-13-09 22:35:21   INFO [pages.WomenPage] : List of elements was getted
+2018-13-09 22:35:21   INFO [pages.WomenPage] : List of elements was getted
+2018-13-09 22:35:21   INFO [pages.WomenPage] : List of elements was getted
+2018-13-09 22:35:21   INFO [pages.WomenPage] : List of elements was getted
+2018-13-09 22:35:21   INFO [pages.WomenPage] : List of elements was getted
+2018-13-09 22:35:21   INFO [pages.WomenPage] : List of elements was getted
+2018-13-09 22:35:22   INFO [pages.HomePage] : Browser was closed
+2018-13-09 22:35:50   INFO [pages.HomePage] : Home page was opened
+2018-13-09 22:35:52   INFO [pages.HomePage] : Tab 'Women' was clicked
+2018-13-09 22:35:52   INFO [pages.WomenPage] : Page 'Women' was displayed
+2018-13-09 22:35:52   INFO [pages.WomenPage] : 'price:asc' was selected in DD
+2018-13-09 22:35:55   INFO [pages.WomenPage] : List of elements was getted
+2018-13-09 22:35:55   INFO [pages.WomenPage] : List of elements was getted
+2018-13-09 22:35:55   INFO [pages.WomenPage] : List of elements was getted
+2018-13-09 22:35:55   INFO [pages.WomenPage] : List of elements was getted
+2018-13-09 22:35:55   INFO [pages.WomenPage] : List of elements was getted
+2018-13-09 22:35:55   INFO [pages.WomenPage] : List of elements was getted
+2018-13-09 22:35:56   INFO [pages.HomePage] : Browser was closed
+2018-13-09 22:36:03   INFO [pages.HomePage] : Home page was opened
+2018-13-09 22:36:05   INFO [pages.HomePage] : Tab 'Women' was clicked
+2018-13-09 22:36:05   INFO [pages.WomenPage] : Page 'Women' was displayed
+2018-13-09 22:36:05   INFO [pages.WomenPage] : 'price:asc' was selected in DD
+2018-13-09 22:36:08   INFO [pages.WomenPage] : Filter 'Pink' was clicked
+2018-13-09 22:36:11   INFO [pages.WomenPage] : Number of filtered elements was getted
+2018-13-09 22:36:11   INFO [pages.WomenPage] : Number of filtered elements equal 1
+2018-13-09 22:36:12   INFO [pages.HomePage] : Browser was closed
